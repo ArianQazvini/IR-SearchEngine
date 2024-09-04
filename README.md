@@ -42,16 +42,10 @@ The aim of this project is to develop a search engine capable of indexing and re
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/ArianQazvini/IR-SearchEngine.git
+    cd IR-SearchEngine
     ```
-
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Place the data file (`IR_data_news.json`) in the project root directory.
+2. Place the data file (`IR_data_news.json`) in the project root directory.
 
 ## Usage
 
